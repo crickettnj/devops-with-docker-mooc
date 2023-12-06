@@ -1,0 +1,4 @@
+PS D:\course> docker ps -a
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+PS D:\course> docker images        
+REPOSITORY   TAG       IMAGE ID   CREATED   SIZE
